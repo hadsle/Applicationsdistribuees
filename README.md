@@ -1,4 +1,4 @@
-D'abbord on démarre le service de Naming par "rmiregistry 1099" (sur la ligne de commande)
+D'abbord vous démarrez le service de Naming par "rmiregistry 1099" (sur la ligne de commande)
 
 Après vous compilez et exécutez Calculator serveur.
 
